@@ -1,0 +1,1 @@
+timer1.Interval = Convert.ToInt16(Convert.ToString(TextBox1.text + "000"));
